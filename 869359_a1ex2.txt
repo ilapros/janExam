@@ -1,0 +1,11 @@
+structure(list(n_cani = c(25L, 16L, 21L, 4L, 17L, 4L, 19L, 4L, 
+11L, 0L, 21L, 7L, 20L, 13L, 0L, 5L, 5L, 18L, 3L, 1L, 14L, 14L, 
+3L, 17L, 12L, 10L, 3L, 3L, 4L, 1L, 23L, 2L, 6L, 2L, 7L, 11L, 
+21L, 3L, 3L, 4L), festivo = structure(c(1L, 1L, 2L, 1L, 1L, 1L, 
+2L, 1L, 2L, 1L, 1L, 1L, 2L, 1L, 1L, 2L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 2L, 1L, 1L, 1L, 1L, 1L, 2L, 1L, 1L, 2L, 1L, 2L, 1L, 2L, 2L, 
+1L, 1L), .Label = c("fer", "fes"), class = "factor"), temp = c(15, 
+18, 12, 29, 18, 29, 19, 2, 6.8, 37, 15, 27, 20, 7.9, 34, -0.8, 
+27, 9.5, -1.5, 36, 9.7, 22, -0.94, 11, 25, 6.8, 28, -1.5, 28, 
+3.1, 10, 33, 32, 36, 1.9, 4.2, 13, 0.24, 30, 33)), class = "data.frame", row.names = c(NA, 
+-40L))
